@@ -1,20 +1,30 @@
 body {
   background-color: #eee;
-  padding-top: 5%;
+  /* padding-top: 2.5%; */
   padding-bottom: 10%;
 }
 
 .containers {
-  margin-right: 4%;
-  margin-left: 4%;
+  margin-right: 4em;
+  margin-left: 4em;
 }
 
-li {
+/* li {
   padding-bottom: 10px;
+} */
+
+img{
+  height:35em;
+  width:auto;
+  margin:2em;
+}
+
+#logo{
+  height:5em;
 }
 
 .collapsible li {
-  padding-top: 10px;
+  padding-top: .65em;
   background-color: orange;
   padding-bottom: 0;
 }
@@ -30,4 +40,12 @@ li {
 
 .card-title {
   font-weight: bold;
+}
+
+.section-div{
+  margin-top:5em;
+  height: .35em;
+  width:100%;
+  background-color:black;
+  font-size: 14pt;
 }
