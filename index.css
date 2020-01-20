@@ -14,13 +14,15 @@ body {
 } */
 
 img{
-  height:35em;
-  width:auto;
+  width:30em;
+  height:auto;
   margin:2em;
+  margin-top:.5em;
 }
 
 #logo{
-  height:5em;
+  width:25em;
+  height:auto;
 }
 
 .collapsible li {
@@ -43,9 +45,21 @@ img{
 }
 
 .section-div{
-  margin-top:5em;
+  margin-top:4em;
   height: .35em;
   width:100%;
   background-color:black;
   font-size: 14pt;
+}
+
+@media screen and (max-width: 1000px){
+  #collapsible-1{
+    width:30em;
+    margin-left:2em;
+  }
+
+  #img-1{
+    margin-left:1em;
+    margin-right:1em;
+  }
 }
