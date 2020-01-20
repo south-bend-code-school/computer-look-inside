@@ -55,11 +55,10 @@ img{
 @media screen and (max-width: 1000px){
   #collapsible-1{
     width:30em;
-    margin-left:2em;
+    margin-left:1em;
   }
 
   #img-1{
-    margin-left:1em;
-    margin-right:1em;
+    margin-left:0;
   }
 }
