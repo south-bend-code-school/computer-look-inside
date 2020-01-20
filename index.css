@@ -33,6 +33,12 @@ img{
 
 .collapsible-body {
   background-color: #546e7a;
+  padding-left:1em !important;
+  text-align:left;
+}
+
+.white-text{
+
 }
 
 .collapsible-header {
