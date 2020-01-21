@@ -21,8 +21,15 @@ img{
 }
 
 #logo{
-  width:25em;
+  margin-top:4em;
+  width:20em;
   height:auto;
+}
+
+#title{
+  text-align: left;
+  margin-left:2em;
+  font-size:4em;
 }
 
 .collapsible li {
@@ -35,10 +42,6 @@ img{
   background-color: #546e7a;
   padding-left:1em !important;
   text-align:left;
-}
-
-.white-text{
-
 }
 
 .collapsible-header {
