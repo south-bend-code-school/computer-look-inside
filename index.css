@@ -28,8 +28,9 @@ img{
 
 #title{
   text-align: left;
-  margin-left:2em;
-  font-size:4em;
+  margin-left:.25em;
+  padding-right:5em;
+  font-size:5em;
 }
 
 .collapsible li {
